@@ -8,3 +8,6 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/mp-zamora/cursus-get_next_line
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/mp-zamora/cursus-push_swap
