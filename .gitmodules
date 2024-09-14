@@ -2,3 +2,6 @@
 	path = libft
 	url = https://github.com/mp-zamora/libft
 	branch = main
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/mp-zamora/cursus-ft_printf
