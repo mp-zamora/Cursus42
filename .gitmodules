@@ -11,3 +11,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/mp-zamora/cursus-push_swap
+[submodule "born2beroot"]
+	path = born2beroot
+	url = https://github.com/mp-zamora/cursus-born2beroot
