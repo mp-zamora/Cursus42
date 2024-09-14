@@ -2,7 +2,7 @@
 Welcome to my 42 Cursus repository. Here you will be able to find some of the projects I have developed during my attendance to the 42 coding school (Madrid campus).
 
 ## About 42
-42 has a unique peer-to-peer pedagogic approach, where students learn in the absence of proffesors or formal academic methods. Instead, it relies in the self-taught ability of the students and the collaboration between peers to learn trough hands-on projects.
+42 has a unique peer-to-peer pedagogic approach, where students learn in the absence of professors or formal academic methods. Instead, it relies in the self-taught ability of its students and the collaboration between peers to learn trough hands-on projects.
 This special approach is what makes 42 unique, and has helped me to develop not only hard skills related to ComSci, but also essential soft skills useful in the workplace. Some of these skills include teamworking, problem solving and autonomous organization.
 
 ### About coding rules
