@@ -14,6 +14,3 @@
 [submodule "born2beroot"]
 	path = born2beroot
 	url = https://github.com/mp-zamora/cursus-born2beroot
-[submodule "cursus-libftplus"]
-	path = cursus-libftplus
-	url = git@github.com:mp-zamora/cursus-libftplus.git
